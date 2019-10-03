@@ -1,25 +1,21 @@
-import React from 'react';
-import logo from './logo.svg';
+import React,{useEffect} from 'react';
+
+// CSS
+import 'materialize-css/dist/css/materialize.min.css'
 import './App.css';
 
+// Materialize-css Javascript
+import M from 'materialize-css'
+
+// component core
 function App() {
+
+  /* hook efect init materialize*/
+  useEffect(()=> M.AutoInit());
+
+  /* render component */
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <h1>edit in App.js <i className="material-icons">edit</i></h1>
   );
 }
 

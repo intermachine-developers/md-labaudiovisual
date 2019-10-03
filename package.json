@@ -1,8 +1,16 @@
 {
   "name": "md-labaudiovisual",
+  "author": "intermachine developers",
+  "keywords": [ "materialize-css", "react", "es6", "no jQuery" ],
+  "homepage": "https://github.com/intermachine-developers/md-labaudiovisual",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intermachine-developers/md-labaudiovisual"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "materialize-css": "^1.0.0-rc.2",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "react-scripts": "3.1.2"
@@ -27,5 +35,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "license": "Intermachine opensource"
 }
