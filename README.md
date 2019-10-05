@@ -1,4 +1,4 @@
-# material design laboratorio audiovisual / material design audiovisual laboratory
+# material design laboratorio audiovisual o multiproposito / material design audiovisual laboratory or multipurpose
 
 Project open-source the intermachine developers.
 
