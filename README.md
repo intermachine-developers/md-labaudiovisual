@@ -1,4 +1,4 @@
-# material design laboratorio audiovisual o multiproposito / material design audiovisual laboratory or multipurpose
+# material design laboratorio audiovisual / material design audiovisual laboratory
 
 Project open-source the intermachine developers.
 
@@ -50,6 +50,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 To learn Materialize-css, check out the [Materialize document](https://materializecss.com)
+
+To learn react-helmet, check out the [react-helmet document](https://github.com/nfl/react-helmet)
 
 ### Code Splitting
 

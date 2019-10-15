@@ -1,7 +1,14 @@
 {
   "name": "md-labaudiovisual",
   "author": "intermachine developers",
-  "keywords": [ "materialize-css", "react", "es6", "without-jquery" ],
+  "keywords": [
+    "materialize-css",
+    "react",
+    "es6",
+    "no jQuery",
+    "seo-react",
+    "react-helmet"
+  ],
   "homepage": "https://github.com/intermachine-developers/md-labaudiovisual",
   "repository": {
     "type": "git",
@@ -10,9 +17,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "materialize-css": "^1.0.0-rc.2",
+    "materialize-css": "1.0.0",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
+    "react-helmet": "^5.2.1",
     "react-scripts": "3.1.2"
   },
   "scripts": {
